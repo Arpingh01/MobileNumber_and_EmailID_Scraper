@@ -1,4 +1,4 @@
-# Mobile_&_EmailID_Scraper
+# MobileNumber_&_EmailID_Scraper
 
 This project is a Python script designed to extract email addresses and phone numbers from a specified webpage and save them into a CSV file for easy access and organization.
 
